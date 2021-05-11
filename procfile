@@ -1,1 +1,1 @@
-pm2 run server.js
+web: node server.js
